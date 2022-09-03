@@ -22,7 +22,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-red?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://reddit.com/u/Official_Mlx">
-    <img src="https://img.shields.io/badge/Reddit-critical?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge"/>
+    <img src="https://img.shields.io/badge/Reddit-pink?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge"/>
   </a>
   <a href="https://t.me/Official_Mlx">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge"/>
