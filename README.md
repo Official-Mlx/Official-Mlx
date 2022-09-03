@@ -48,10 +48,10 @@ Hello! I am Mohammad M.
 
   <h3> Interests </h3>
   
-  - Blogs, Projects, Abstract Writing & Shit Talks.
-  - Movies: Sci-fi, Horror, Comedy, Mystery.
-  - Science: Astronomy, Cosmology, Psychology.
-  - Literally Everything. 
+  - Ontology and epistemology and what is included in philosophy.
+  - User interface design for web and Android applications.
+  - Nature tourism and getting to know different cultures, including ancient civilizations.
+  - Learning communicative languages ​​and psychology and sociology. 
 
   
 <h2> Languages: </h2>
