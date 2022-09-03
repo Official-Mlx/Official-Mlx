@@ -52,24 +52,15 @@
   - Movies: Sci-fi, Horror, Comedy, Mystery.
   - Science: Astronomy, Cosmology, Psychology.
   - Literally Everything. 
-<br>
-<h2> Skills:</h2>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=android&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/android.svg'> </a>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=java&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=html&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=css&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=javascript&sort= > <img width =30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=git&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/bishwofic?tab=repositories&q=&type=&language=wordpress&sort= > <img width ='30px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/wordpress.svg'> </a><br>
-<br>
+
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-Mlx&theme=buefy&border_radius=10"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrKLO&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Official-Mlx&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Official-Mlx's GitHub Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrKLO&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Official-Mlx's GitHub Stats" /></a>
 <br>
 <br>
 <h2 align = "left"> Humour: </h2>
