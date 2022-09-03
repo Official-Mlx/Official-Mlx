@@ -30,7 +30,7 @@
 </div>
 <br>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=DrKLO.DrKLO)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=bishwofic.bishwofic)
 
 <h2> About Me:</h2>
 
