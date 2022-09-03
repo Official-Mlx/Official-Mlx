@@ -19,7 +19,7 @@
 
 <div align="center" id="social">
   <a href="https://linkedin.com/in/Official_Mlx">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-green?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://reddit.com/u/Official_Mlx">
     <img src="https://img.shields.io/badge/Reddit-critical?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge"/>
