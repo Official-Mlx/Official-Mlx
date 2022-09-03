@@ -38,7 +38,7 @@
   
   <h3> Current </h3>
   
--Hello! I am Mohammad M.
+Hello! I am Mohammad M.
  Web And Android Developer,
  Graphic Designer and Photographer.
  I Started Programming at The age of Eight,
