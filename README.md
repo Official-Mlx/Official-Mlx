@@ -39,12 +39,12 @@
   <h3> Current </h3>
   
 -Hello! I am Mohammad M.
--Web And Android Developer,
--Graphic Designer and Photographer.
--I Started Programming at The age of Eight,
--and I am Fluent in Several Programming languages.
--I am also interested in Graphic Design and Photography.
--Most of the Photos I take are From Nature, Because Nature Calms Me down
+ Web And Android Developer,
+ Graphic Designer and Photographer.
+ I Started Programming at The age of Eight,
+ and I am Fluent in Several Programming languages.
+ I am also interested in Graphic Design and Photography.
+ Most of the Photos I take are From Nature, Because Nature Calms Me down
 
   <h3> Interests </h3>
   
