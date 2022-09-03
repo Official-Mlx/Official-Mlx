@@ -1,6 +1,6 @@
 <b>
 <div id="header" align="center">
-<img src="https://i.ibb.co/cFDmTyX/programmer.png" width="150"/>
+<img src="https://i.ibb.co/cFDmTyX/programmer.png" width="120"/>
 <h3>Mohammad M</h3>
 <h4>WEB AND ANDROID DEVELOPER, GRAPHIC DESIGNER, PHOTOGRAPHER</h4> 
 </div>
