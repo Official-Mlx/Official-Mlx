@@ -13,13 +13,13 @@
     <img src="https://img.shields.io/badge/Instagram-yellow?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/Official_Mlx">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-green?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
 <div align="center" id="social">
   <a href="https://linkedin.com/in/Official_Mlx">
-    <img src="https://img.shields.io/badge/LinkedIn-green?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-red?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
     <a href="https://reddit.com/u/Official_Mlx">
     <img src="https://img.shields.io/badge/Reddit-critical?style=flat&logo=reddit&logoColor=white" alt="Reddit Badge"/>
