@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Facebook-blue?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
   <a href="https://instagram.com/Official_Mlx">
-    <img src="https://img.shields.io/badge/Instagram-critical?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-yellow?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="https://twitter.com/Official_Mlx">
     <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge"/>
