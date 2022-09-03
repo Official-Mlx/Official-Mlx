@@ -38,8 +38,13 @@
   
   <h3> Current </h3>
   
-  - CherishOS Official Maintainer for Redmi Note 8 Pro.
-  - Learning Web & Android Development & Ethical Hacking.
+-Hello! I am Mohammad M.
+-Web And Android Developer,
+-Graphic Designer and Photographer.
+-I Started Programming at The age of Eight,
+-and I am Fluent in Several Programming languages.
+-I am also interested in Graphic Design and Photography.
+-Most of the Photos I take are From Nature, Because Nature Calms Me down
 
   <h3> Interests </h3>
   
@@ -60,11 +65,11 @@
   
 <h2> Languages: </h2>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishwofic&theme=buefy&border_radius=10"/></a>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Official-Mlx&theme=buefy&border_radius=10"/></a>
 <br>
 <br>
 <h2> Statistics: </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bishwofic&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Bishwo's GitHub Stats" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Official-Mlx&show_icons=true&include_all_commits=true&theme=buefy&hide=issues&border_radius=10" alt="Official-Mlx's GitHub Stats" /></a>
 <br>
 <br>
 <h2 align = "left"> Humour: </h2>
