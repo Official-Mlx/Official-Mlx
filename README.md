@@ -38,13 +38,8 @@
   
   <h3> Current </h3>
   
-Hello! I am Mohammad M.
- Web And Android Developer,
- Graphic Designer and Photographer.
- I Started Programming at The age of Eight,
- and I am Fluent in Several Programming languages.
- I am also interested in Graphic Design and Photography.
- Most of the Photos I take are From Nature, Because Nature Calms Me down
+Hello!
+Programmer and web designer with more than 8 years of specialized programming work. Web developer with experience and skills in all stages of advanced web development. Full familiarity with the process of user interface, testing and troubleshooting. Expert in designing, installing, testing and maintaining web systems. Has a diverse set of programming skills. Skilled in Java, ASP, NET (Network), C#, IIS, Tomcat, Microsoft SQL Server. With the ability to do projects individually and in group cooperation.
 
   <h3> Interests </h3>
   
